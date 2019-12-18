@@ -4,7 +4,7 @@ A live demo with Liang group.
 """
 
 # Add imports here
-from .kubo import *
+from .kubo import Kubo
 
 # Handle versioneer
 from ._version import get_versions
